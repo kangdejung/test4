@@ -13,10 +13,7 @@
 	<preference name="fullscreen" value="true" />
 
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
-
-	<gap:plugin name="nl.x-services.plugins.launchmyapp">
-		<param name="URL_SCHEME" value="mycoolapp" />
-	</gap:plugin>
+	<gap:plugin name="org.apache.cordova.inappbrowser" />
 	
 	<allow-navigation href="*" />
 	<icon src="icon.png" />
