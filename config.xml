@@ -17,5 +17,6 @@
 	
 	<icon src="icon.png" />
 	<content src="index.html" />
-	<access origin="*" />
+	<access origin="test4.dungzi.com/*" />
+	<allow-navigation href="test4.dungzi.com/*" />
 </widget>
