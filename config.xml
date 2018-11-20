@@ -9,6 +9,8 @@
 	</author>
 	<preference name="AutoHideSplashScreen" value="true" />
 	<preference name="SplashScreenDelay" value="3000" />
+	<preference name="SplashMaintainAspectRatio" value="true|false" />
+	<preference name="SplashShowOnlyFirstTime" value="true|false" />
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
 
