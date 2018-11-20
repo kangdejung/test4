@@ -7,11 +7,8 @@
 	<author email="webplug@gmail.com" href="http://www.dungzi.com/">
 		Dungzi Team
 	</author>
-	<preference name="AutoHideSplashScreen" value="true" />
-	<preference name="SplashScreenDelay" value="1" />
-	<preference name="SplashMaintainAspectRatio" value="false" />
-	<preference name="SplashShowOnlyFirstTime" value="true" />
-	<preference name="backgroundColor" value="0xff0000ff" />
+	<preference name="AutoHideSplashScreen" value="false" />
+	<preference name="SplashScreenDelay" value="0" />
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
 
